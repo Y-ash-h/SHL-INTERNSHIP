@@ -1,0 +1,13 @@
+<script>start("/Users/yashvardhanjain/SHL INTERNSHIP ASSESMENT/shl_scraper/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("__pycache__","__pycache__",1,192,"192 B",1743971935,"07/04/2025, 02:08:55");</script>
+<script>addRow("data","data",1,64,"64 B",1743791868,"05/04/2025, 00:07:48");</script>
+<script>addRow("env","env",1,192,"192 B",1743970597,"07/04/2025, 01:46:37");</script>
+<script>addRow("trial","trial",1,288,"288 B",1743973556,"07/04/2025, 02:35:56");</script>
+<script>addRow(".env",".env",0,102,"102 B",1743948026,"06/04/2025, 19:30:26");</script>
+<script>addRow("chatbot.py","chatbot.py",0,2784,"2.7 kB",1743973675,"07/04/2025, 02:37:55");</script>
+<script>addRow("embedded.py","embedded.py",0,3044,"3.0 kB",1743973704,"07/04/2025, 02:38:24");</script>
+<script>addRow("gemini_client.py","gemini_client.py",0,1447,"1.4 kB",1743973711,"07/04/2025, 02:38:31");</script>
+<script>addRow("opensearch_client.py","opensearch_client.py",0,2598,"2.5 kB",1743971930,"07/04/2025, 02:08:50");</script>
+<script>addRow("requirements.txt","requirements.txt",0,540,"540 B",1743941770,"06/04/2025, 17:46:10");</script>
+<script>addRow("run_scraper.py","run_scraper.py",0,102,"102 B",1743973724,"07/04/2025, 02:38:44");</script>
